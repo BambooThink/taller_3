@@ -4,11 +4,13 @@ fun main() {
     print("Ingrese el numero de empleados: ")
     val cantidadEmpleados = readLine()!!.toInt()
     repeat(cantidadEmpleados) {
-
+        print("Ingrese el numero de horas trabajadas del empleado No. ${it + 1}: ")
+        val horas = readLine()!!.toDouble()
+        println("El empleado No. ${it + 1} obtuvo un salario de ${calcularPagoPorHoras(horas)}")
     }
 }
 
-fun estimarPagoPorHora(horas: Double): Double {
+fun calcularPagoPorHoras(horas: Double): Double {
     return if (horas <= 35) {
         15000 * horas
     } else if (horas > 35 && horas < 60) {

@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd9b176-426a-4daf-b076-83adb0e723e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taller_3.iml" afterDir="false" />
+    <list default="true" id="6fd9b176-426a-4daf-b076-83adb0e723e7" name="Changes" comment="Creación de programas">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Programa_4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +48,37 @@
     "last_opened_file_path": "C:/Users/Trabajo/Desktop/Curso_Desarrollo_Movil/Talleres/taller_3"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Programa_3Kt">
-    <configuration name="Programa_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_1Kt" />
+  <component name="RunManager" selected="Kotlin.Programa_11Kt">
+    <configuration name="Programa_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_10Kt" />
       <module name="taller_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programa_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_2Kt" />
+    <configuration name="Programa_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_11Kt" />
       <module name="taller_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programa_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_3Kt" />
+    <configuration name="Programa_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_7Kt" />
+      <module name="taller_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_8Kt" />
+      <module name="taller_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Programa_9Kt" />
       <module name="taller_3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,9 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Programa_3Kt" />
-        <item itemvalue="Kotlin.Programa_2Kt" />
-        <item itemvalue="Kotlin.Programa_1Kt" />
+        <item itemvalue="Kotlin.Programa_11Kt" />
+        <item itemvalue="Kotlin.Programa_10Kt" />
+        <item itemvalue="Kotlin.Programa_9Kt" />
+        <item itemvalue="Kotlin.Programa_8Kt" />
+        <item itemvalue="Kotlin.Programa_7Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +103,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655073420230</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creación de programas">
+      <created>1655081297584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655081297584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creación de programas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de programas" />
   </component>
 </project>
